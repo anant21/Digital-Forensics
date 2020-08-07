@@ -7,5 +7,5 @@
 ### - *Technical Write-ups*
 
    
-Digital Forensics Intern - Anant Gangwar
-Amrit Chhetri & 4n6 Team
+**Digital Forensics Intern - Anant Gangwar**
+**Amrit Chhetri & 4n6 Team**
