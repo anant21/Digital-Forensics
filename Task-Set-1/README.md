@@ -1,5 +1,3 @@
-# Digital-Forensics (Internship) @ Digital 4N6
-
 ## Forensic Upskilling(Certificates of Achievements)
     * Digital Forensics
     * AI
