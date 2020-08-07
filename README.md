@@ -1,10 +1,10 @@
 # Digital-Forensics (Internship) @ Digital 4N6
 
-### *Forensic Upskilling*
+### - *Forensic Upskilling*
     
-### *Internal Tasks*
+### - *Internal Tasks*
 
-### *Technical Write-ups*
+### - *Technical Write-ups*
 
    
 ##### Digital Forensics Intern - Anant Gangwar
