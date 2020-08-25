@@ -2,7 +2,7 @@
 ## Forensic Upskilling(Certificates of Achievements)
     * Cyber Attack Surface in Digital Forensics (Certified Network Security Specialist)
     * Forensics Procedures
-    * OS Forensics
+    * OS Forensics Triage Examination
     * Cyber Acts
     * Block System (Blockchain Essentials)
     * Splunk SIEM/SOAR
