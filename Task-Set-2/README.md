@@ -12,7 +12,7 @@
     * Malware Analysis using Deep Exploit , REMNux & Cuckoobox
     * Automation of Malware  Forensic Triage in SOC
     * Estabishing Digital Forensics Labs - India and USA( Standards)
-    
+
 ## Forensic Labs
     * Docker Forensics
     * Malware Analysis using REMNux
