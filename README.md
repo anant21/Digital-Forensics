@@ -1,4 +1,4 @@
-# Digital-Forensics (Internship) @ Digital 4N6
+# Digital-Forensics (Internship) @ Digital 4N6 Journal
 ```
 * Forensic Upskilling
     
